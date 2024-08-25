@@ -1,0 +1,44 @@
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.carousel-caption h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.carousel-caption p {
+  font-size: 1.2rem;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+/* Footer Css */
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #adb5bd;
+}
+
+footer h5 {
+  margin-bottom: 1rem;
+}
+
+footer p {
+  margin: 0.5rem 0;
+}
+
+
+@import 'bootstrap/dist/css/bootstrap.min.css'
